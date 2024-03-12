@@ -125,3 +125,4 @@ C:\Users\jakeg\Downloads\Other\BYU\IS_413\FullStackFun\backend\APIFun\bin\Debug\
 C:\Users\jakeg\Downloads\Other\BYU\IS_413\FullStackFun\backend\APIFun\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\jakeg\Downloads\Other\BYU\IS_413\FullStackFun\backend\APIFun\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\jakeg\Downloads\Other\BYU\IS_413\FullStackFun\backend\APIFun\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jakeg\Downloads\Other\BYU\IS_413\FullStackFun\backend\APIFun\obj\Debug\net8.0\APIFun.sourcelink.json
